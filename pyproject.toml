@@ -4,5 +4,5 @@ version = "0.1.0"
 description = "Repro for dependabot-core issue #15978 - numpy 2.5.2 filtered because it requires Python >=3.12"
 requires-python = ">=3.11,<3.12"
 dependencies = [
-    "numpy==2.1.0"
+    "numpy==2.4.6"
 ]
